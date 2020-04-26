@@ -1,6 +1,6 @@
 .dpd-expiration {
-  font-size: 20px;
-  margin: -1em auto 1em 0;
+  font-size: 16px;
+  margin: -1em auto 2em 0;
 }
 
 .dpd-item {
@@ -13,7 +13,7 @@
   input,
   select {
     width: 100%;
-    font-size: 25px;
+    font-size: 20px;
     @extend %button;
     background-color: #ffffff;
     -webkit-appearance: none;
@@ -26,7 +26,7 @@
   }
 
   label {
-    margin-bottom: 15px;
+    margin-bottom: 2px;
   }
 
   &--country {
